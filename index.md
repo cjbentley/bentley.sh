@@ -1,10 +1,8 @@
-## Updated front page coming soon.
+## Hi, I'm Cameron Bentley.
 
-## Welcome to GitHub Pages
+I'm a second year mechanical engineering undergraduate at the University of Waterloo in Ontario, Canada. I have a big interest in the automotive industry, as well as in aerospace and software engineering. 
 
-You can use the [editor on GitHub](https://github.com/cjbentley/cjbentley.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I've worked as a co-op student across Canada in a variety of positions, primarily in the civil engineering and O&G industries. I'm looking forward to broadening my skillset throughout the remainder of my degree with additional co-op placements.
 
 ### Markdown
 
