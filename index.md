@@ -1,3 +1,7 @@
+---
+title: Cameron Bentley
+---
+
 ## Hi, I'm Cameron Bentley.
 
 I'm a second year mechanical engineering undergraduate at the University of Waterloo in Ontario, Canada. I have a big interest in the automotive industry, as well as in aerospace and software engineering. 
