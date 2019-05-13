@@ -21,16 +21,3 @@ Beyond that, I'm likely going to focus on cooling to ensure reliability under su
 I do all maintenance and modifications myself, and am looking forward to taking this to some local tracks throughout this season. 
 
 You can read the thread over on the GolfMK7 forums: https://www.golfmk7.com/forums/showthread.php?t=52197
-
-
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cjbentley/cjbentley.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
