@@ -9,7 +9,7 @@ I'm a second year mechanical engineering undergraduate at the University of Wate
 I've worked as a co-op student across Canada in a variety of positions, primarily in the civil engineering and O&G industries. I'm looking forward to broadening my skillset throughout the remainder of my degree with additional co-op placements.
 
 ### Projects & Personal Interests
-## Mk7 Volkswagen GTI
+#### Mk7 Volkswagen GTI
 
 Over the course of the last few months, I've been working on making a track-capable daily driver. 
 Mainly, I'm focused on quality-of-life, safety, and reliability improvements, as my track skill doesn't necessitate adding power, and also I don't want to totally bankrupt myself.
