@@ -20,4 +20,4 @@ Beyond that, I'm likely going to focus on cooling to ensure reliability under su
 
 I do all maintenance and modifications myself, and am looking forward to taking this to some local tracks throughout this season. 
 
-You can read the thread over on the GolfMK7 forums: https://www.golfmk7.com/forums/showthread.php?t=52197
+You can read the thread over on the [GolfMK7 forums](https://www.golfmk7.com/forums/showthread.php?t=52197).
